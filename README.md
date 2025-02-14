@@ -114,7 +114,7 @@ book-assignment/
 ### **Frontend Setup**
 5. Navigate to the frontend folder and install dependencies:
    ```bash
-   cd ../frontend
+   cd frontend
    yarn install
    ```
 6. Run the frontend app:
