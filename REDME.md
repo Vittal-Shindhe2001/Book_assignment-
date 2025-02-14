@@ -123,7 +123,6 @@ book-assignment/
    ```
 
 ## Submission Guidelines
-- Format: PDF or Word Document for API documentation
 - API should be tested using Postman or similar tools
 - Ensure frontend UI is responsive and user-friendly
 
